@@ -1,4 +1,6 @@
 //program to input an string and count occurance of each character
+// Converted to lower using algo lib
+// Name: Deepak Pandey
 # include <iostream>
 # include <algorithm>
 using namespace std;

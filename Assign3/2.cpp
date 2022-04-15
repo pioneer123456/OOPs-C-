@@ -1,4 +1,5 @@
 //program to implement class student with following members
+//Name: Deepak Pandey
 #include <iostream>
 using namespace std;
 class student

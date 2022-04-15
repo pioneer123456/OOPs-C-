@@ -1,5 +1,6 @@
 //Write a program based on the above criteria to input name, address, amount of purchase and the type of purchase (L for Laptop and D for Desktop) by a customer. Compute and print the net amount to be paid by a customer along with his name and address.
 //(Hint: Discount = (discount rate / 100) * amount of purchase, Net amount = amount of purchase – discount)
+// Name: Deepak Pandey
 # include<iostream>
 using namespace std;
 int main(){

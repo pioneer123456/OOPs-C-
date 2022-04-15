@@ -1,4 +1,5 @@
 // create a class to called numdemo with following data members
+// Name: Deepak Pandey
 # include <iostream>
 using namespace std;
 class numdemo

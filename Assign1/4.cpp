@@ -1,4 +1,5 @@
 //special 2 digit no
+// Name: Deepak Pandey
 # include <iostream>
 using namespace std;
 int main()

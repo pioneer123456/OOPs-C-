@@ -1,5 +1,6 @@
 //Using the switch statement, write a menu driven program
 //(i) To check and display whether a number input by the user is a composite number or not (A number is said to be a composite, if it has one or more than one factors excluding 1 and the number itself)
+// Name: Deepak Pandey
 # include <iostream>
 using namespace std;
 int main()
