@@ -37,15 +37,20 @@ class timee{
             m-=60;
             h+=1;
         }
+        if(h>24)
+        {
+            h=h-24;
+        }
         return *this;
     }
+
 
 };
 int main()
 {
     timee ob1;
-    timee ob3(1,45,13);
-    timee ob2(2,30,30);
+    timee ob3(12,45,13);
+    timee ob2(12,30,30);
     ob1.display();
     ob3.display();
     ob2.display();
